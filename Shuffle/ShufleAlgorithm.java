@@ -22,14 +22,13 @@ public class ShufleAlgorithm {
 		}
 
 		 // call the method to shuffle the given array
-		for(int x = 0 ; x<3; x++) {
+		
 			shuffle(shufleArray);
 		for (double e : shufleArray) {
 
 			System.out.println("< " + e);  // for each and print all elements after shuffling 
 		}
-		System.out.println("**************************");
-		}
+		
 
 	}
 
