@@ -51,8 +51,8 @@ public class ShufleAlgorithm {
 	public static double generateRandomNumbers() {
 
 		double range = 999;  // here is the range of numbers
-		double a = 3;   
-		double c = 4;
+		double a = 2;   
+		double c = 6;
 	 // give the start value , time of operating system which is change with every run to get different numbers
 		double z = (System.nanoTime());
 
